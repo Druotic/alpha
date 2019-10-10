@@ -61,7 +61,7 @@
     "@babel/cli": "^7.6.4",
     "@babel/core": "^7.6.4",
     "@babel/preset-env": "^7.6.3",
-    "@babel/register": "^7.0.0",
+    "@babel/register": "^7.6.2",
     "@lifeomic/eslint-plugin-node": "^2.0.1",
     "ava": "^2.0.0",
     "aws-sdk-mock": "^4.0.0",
